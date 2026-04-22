@@ -8,10 +8,12 @@
 
 ## Project Structure
 
+```
 sql/
 ├── 01_exploratory_analysis.sql   # Review score distribution & volume trends
 ├── 02_bad_review_rate.sql        # Bad review rate over time (monthly & yearly)
 └── 03_root_cause_analysis.sql    # Late delivery impact + text mining
+```
 
 ## Key Findings
 - **~11% of all reviews are negative** (1–2 stars)
